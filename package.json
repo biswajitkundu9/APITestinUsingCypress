@@ -1,0 +1,22 @@
+{
+  "name": "cypressapiautomation",
+  "version": "1.0.0",
+  "description": "Its an APi automation framework using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biswajitkundu9/APITestinUsingCypress.git"
+  },
+  "author": "Biswajit Kundu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biswajitkundu9/APITestinUsingCypress/issues"
+  },
+  "homepage": "https://github.com/biswajitkundu9/APITestinUsingCypress#readme",
+  "devDependencies": {
+    "cypress": "^13.7.3"
+  }
+}
